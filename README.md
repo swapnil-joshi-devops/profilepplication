@@ -1,2 +1,2 @@
-# profilepplication
-customer profile application for Future Airline
+# future-airline
+future airline use-case CI/CD pipeline
